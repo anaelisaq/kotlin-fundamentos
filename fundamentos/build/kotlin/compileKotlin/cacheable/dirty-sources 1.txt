@@ -1,0 +1,2 @@
+C:\Users\MICRO\OneDrive\Área de Trabalho\Programação\Kotlin\fundamentos\src\main\kotlin\fundamentos\variaveis.kt
+C:\Users\MICRO\OneDrive\Área de Trabalho\Programação\Kotlin\fundamentos\src\main\kotlin\fundamentos\ifelse.kt
